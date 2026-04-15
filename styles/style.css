@@ -78,7 +78,7 @@
 /* informacion*/
 
 .cabecera{
-    height: 20dvh;
+    height: 30dvh;
     display: flex;
     align-items: center;
     justify-content: center;
